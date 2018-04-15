@@ -1,2 +1,4 @@
 # Program
-Práce na programu
+
+Zde následuje kód pro Fridman-Lane proceduru
+
