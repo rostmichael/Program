@@ -1,4 +1,4 @@
 # Program
 
-Zde následuje kód pro Friedman-Lane proceduru
+Zde následuje kód pro Friedman-Lane proceduru.
 
